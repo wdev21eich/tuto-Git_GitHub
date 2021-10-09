@@ -1,16 +1,20 @@
-# tuto-Git_GitHub
+# tuto-Git_GitHub &#9989;
 
-Installer [Git](https://git-scm.com/) 
+## Pour commencer...
+- &#10145; Installer [Git](https://git-scm.com/)
+- &#10145; Créer un compte sur Github
 
-Apprendre quelques commandes Bash sur Git pour les sauvegardes en local et à distance sur "GitHub".
+## Quelques commandes Bash sur Git pour :
+- Enregistrer en local
+- Enregistrer à distance sur la plateforme de "GitHub".
 
-## Exemple de config :
+## Exemple de config &#128423; :
 ```sh
 $ git init
 $ git config --global user.name "[nom]"
 $ git config --global user.email "[adresse email]"
 ````
 
-#### Dans la vidéo ci-dessous, l'éditeur de code utilisé est VS_CODE.
+#### Dans la vidéo ci-dessous, l'éditeur de code utilisé est VS_CODE. &#8601;
 
-Exemple de tuto en vidéo [ici](https://www.youtube.com/watch?v=eXF0epLeCgo)
+&#128249; Exemple de tuto en vidéo [ici](https://www.youtube.com/watch?v=eXF0epLeCgo)
