@@ -4,7 +4,7 @@
 - &#10145; Installer [Git](https://git-scm.com/)
 - &#10145; Créer un compte sur Github
 
-#### Dans les fichiers joints (aide-mémo, versionner et travailler en équipe), vous aller apprendre quelques commandes "Bash" sur Git pour :
+#### Dans les fichiers joints (aide-mémo, versionner et travailler en équipe), vous allez apprendre quelques commandes "Bash" sur Git pour :
 - Enregistrer en local
 - Enregistrer à distance sur la plateforme de "GitHub"
 - Créer des "branch" et d'autre chose...
