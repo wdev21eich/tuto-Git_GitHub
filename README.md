@@ -20,4 +20,4 @@ $ git config --global user.email "[adresse email]"
 
 &#128249; Exemple de tuto en vidéo [ici](https://www.youtube.com/watch?v=eXF0epLeCgo)
 
-[My image](wdev21eich.github.com/tuto-Git_GitHub/versionner-GitHub.png)
+[My image](github.com/wdev21eich/tuto-Git_GitHub/versionner-GitHub.png)
