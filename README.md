@@ -1,4 +1,4 @@
-# tuto-Git_GitHub &#9989;
+# À propos de GitHub et Git &#9989;
 
 > GitHub est une plateforme basée sur le cloud où vous pouvez stocker, partager et travailler avec d'autres pour écrire du code.
 
