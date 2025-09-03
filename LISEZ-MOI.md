@@ -51,3 +51,5 @@ GitHub est une plateforme pour héberger vos dépôts.
 
   * **Pousser sur GitHub** : Envoyez vos commits locaux vers le dépôt distant.
     `git push -u origin main` (ou `master` si c'est le cas)
+
+![Screenshot](versionner-GitHub.png)
